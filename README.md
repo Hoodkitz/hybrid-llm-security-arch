@@ -1,5 +1,10 @@
 # Hybride optisch-digitale Sicherheitsarchitektur für MoE-LLMs
 
+[![GitHub stars](https://img.shields.io/github/stars/Hoodkitz/hybrid-llm-security-arch?style=social)](https://github.com/Hoodkitz/hybrid-llm-security-arch)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Topics](https://img.shields.io/badge/topics-llm--security%20%7C%20adversarial--ml%20%7C%20moe-blue)](https://github.com/Hoodkitz/hybrid-llm-security-arch)
+
+
 > **CertMoE · CaMeL · Nanophotonik** — eine mehrschichtige Sicherheitsarchitektur für Large Language Models mit Mixture-of-Experts.
 
 ## Überblick
